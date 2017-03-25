@@ -1,0 +1,34 @@
+body {
+    background-image: url(../img/background.png);
+}
+
+.parentbox {
+    width: 1000px;
+    height: 1000px;
+    border: 2px solid black
+}
+
+header {
+    height: 100px;
+    width: 790px;
+    color: #FFFFFF
+}
+
+ul.part1 li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 20px;
+}
+
+.image {
+    border: 10px solid #FFFFFF;
+    margin-left: 120px;
+}
+
+footer {
+    background: lightblue;
+    width: 630px;
+    border: 10px solid #FFFFFF;
+    margin-left: 120px;
+    margin-top: 340px;
+}
